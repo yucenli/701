@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="necessary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/necessary/wlsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/weka-stable-3.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/jwnl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/libsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/core-ejml-0.19-nogui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-corenlp-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/joda-time.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/pdfbox-app-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/jollyday.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-parser-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/la4j-0.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/json-io-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-corenlp-3.2.0-models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/ws4j-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-parser-3.2.0-models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/jmrc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-parser-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-corenlp-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/joda-time-2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/jollyday-0.4.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/stanford-corenlp-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/ejml-0.19-nogui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/necessary/xom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

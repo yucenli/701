@@ -65,24 +65,25 @@ public class SentenceAnalyzer {
 			SIMandLEX = 4, STRUCTUREandLEX = 5, ALL = 6;
 
 	public static void main(String[] args) throws Exception {
-		// MathCoreNLP.verbsAddress = "verbs.txt";
-		// MathCoreNLP.setVerbMean();
+		MathCoreNLP.verbsAddress = "verbs.txt";
+		MathCoreNLP.setVerbMeans();
 
-		// MathJsonGenerator.main(new String[] { "input_refined.txt" });
-//		zeroVerbs = new HashSet<String>();
-//		String[] l = new String[] { "have", "be", "begin", "own", "contain",
-//				"include", "remain" };
-//		for (String s : l) {
-			// zeroVerbs.add(s);//THIS WAS NOT USED IN GENERATING THE MATH-ACC
+		MathJsonGenerator.main(new String[] { "input_refined.txt" });
+		zeroVerbs = new HashSet<String>();
+		String[] l = new String[] { "have", "be", "begin", "own", "contain",
+				"include", "remain" };
+		for (String s : l) {
+			zeroVerbs.add(s);//THIS WAS NOT USED IN GENERATING THE MATH-ACC
 			// NUMS
 			// I REMOVED ZERO VERBS FROM TRAIN AND TEST AT THE LAST MOMENTS
 			// USED JUST FOR VERB CLASSIFICATION, NOT ANYMORE...!
-//		}
+		}
 		// ZERO VERBS ARE USED FOR TRAINING, BUT NOT REPORTED WHILE TESTING!!!
 		//
 		
-//		test1();
+		test1();
 
+		/*
 		SentenceAnalyzer arffGenerator = new SentenceAnalyzer();
 		ArrayList<CompactQuantitativeEntity> cents = null;
 		try {
@@ -95,7 +96,7 @@ public class SentenceAnalyzer {
 
 		ArrayList<String> verbsList = arffGenerator
 				.generateArffWithFeatures(SIMandSTRUCTURE);
-		arffGenerator.analyzerArff(verbsList);
+		arffGenerator.analyzerArff(verbsList);*/
 	}
 
 	static void test1() throws Exception {

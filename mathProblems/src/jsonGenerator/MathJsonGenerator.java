@@ -102,7 +102,7 @@ public class MathJsonGenerator {
 
 	public static ArrayList<CompactQuantitativeEntity> readJsons()
 			throws IOException {
-		
+
 		String fName = SentenceAnalyzer.refined?"output_refined.txt":"output.txt";
 		
 		Scanner sc = new Scanner(new File(fName));
