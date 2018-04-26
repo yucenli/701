@@ -27,12 +27,12 @@ def shortest_path_distance(self, other, simulate_root=False):
         :return: The number of edges in the shortest path connecting the two
             nodes, or None if no path exists.
         """
-	
+
         if self == other:
             return 0
 
         path_distance = None
-	
+
         dist_list1 = self.hypernym_distances(simulate_root=simulate_root)
         dist_dict1 = {}
 
@@ -81,7 +81,7 @@ def returnSynsets(l1):
 		#lb.append(b[1]);
      		returnL.append(b);
 	return returnL
-	
+
 
 def returnSimList(lverb,l):
 	ret = [];
@@ -114,7 +114,7 @@ def similarity(lverb,el):
 				msim = sim;
 			j = j+1;
 		i = i+1;
-	
+
 	return msim;
 
 def similarity2(lverb,el):
@@ -125,7 +125,7 @@ def similarity2(lverb,el):
 			sim = wn.lin_similarity(v1, v2, brown_ic, verbose = False);
 			if (sim>maxsim):
 				maxsim = sim;
-			
+
 		ret.append(maxsim);
 	if (len(ret) != 2):
 		ret.append(0);
@@ -134,38 +134,38 @@ def similarity2(lverb,el):
 
 
 
-	
+
 def returnPlusMinusLists(verb, lplus, lminus, f):
-	
+
 	lverb = wn.synsets(verb, pos = 'v');
 	str('here');
 	#print lverb;
 	simPlus=returnSimList(lverb,lplus)
 	simMinus=returnSimList(lverb, lminus)
-		
+
 	f.write(verb);
 	f.write("\n");
 	print>>f, simPlus;
-	f.write("\n");	
+	f.write("\n");
 	print>>f, simMinus;
-	f.write("\n");	
-	f.write("\n");	
-		
-	return simPlus,simMinus	
+	f.write("\n");
+	f.write("\n");
+
+	return simPlus,simMinus
 
 def returnLabel(pscore,mscore):
-	if pscore>mscore: 
+	if pscore>mscore:
 		if pscore-mscore>0.03:return '+'
 		else: return '0'
-	
-	if pscore<mscore: 
+
+	if pscore<mscore:
 		if mscore-pscore>0.03:return '-'
 		else: return '0'
 	if pscore==mscore:
 		return '0'
 
 def main():
-	
+
 	str('salam')
 	#lp=['have', 'be', 'grow', 'add', 'increase','generate','sum']
 	lp=['grow', 'find', 'get']
@@ -178,8 +178,8 @@ def main():
 	#lm=['spend', 'give', 'eat', 'sell', 'miss', 'lose']
 	#lm=['spend', 'give', 'eat', 'sell']
 	lminus=returnSynsets(lm)
-	#lminus.append(wn.synset('left.n.01'))	
-	
+	#lminus.append(wn.synset('left.n.01'))
+
 	#verbList= ['have', 'do', 'be', 'buy', 'grow', 'pick', 'find', 'spend', 'give', 'go', 'get', 'play', 'pay', 'sell', 'finish', 'leave', 'plant', 'work', 'serve', 'place', 'wash', 'eat', 'need', 'miss', 'catch', 'bake', 'make', 'earn', 'cut', 'receive', 'love', 'save', 'attend', 'see', 'divide', 'clean', 'start', 'hold', 'plan', 'join', 'come', 'rent', 'rise', 'add', 'purchase', 'decide', 'borrow', 'take', 'transfer', 'lose', 'win', 'put', 'call', 'stack', 'split', 'damage', 'stock', 'break', 'agree', 'assume', 'stand', 'begin', 'sport', 'fill', 'check', 'end', 'defeat', 'mow', 'discover', 'crack', 'gather', 'search', 'travel', 'visit', 'shine']
 	f=open("/Users/hosseini/Desktop/D/research_uw/data/verbs3.txt",'r')
 	lines = f.readlines();
@@ -187,14 +187,14 @@ def main():
 	for l in lines:
 		ss = l.split(" ");
 		ss = ss[0].split("\t")
-		verbList.append(ss[0]);	
+		verbList.append(ss[0]);
 	for k in range(0,10):
-		
-		
-		
+
+
+
 		str('salam')
 		base_str = "/Users/hosseini/Desktop/D/research_uw/data/sverbs4/";
-	
+
 		in_str = base_str + "sverbs" + `k` + ".txt";
 		out_str = base_str + "dis" + `k` + ".txt";
 		f=open(in_str,'r');
@@ -207,21 +207,21 @@ def main():
 				#break;
 		#	print l;
 			ss = l.split(" ");
-			ss = ss[0].split("\n")		
+			ss = ss[0].split("\n")
 			selected.append(ss[0]);
 			#print "selected:"
 			#print selected
 			i = i+1;
 		lselected = returnSynsets(selected);
-			
+
 			#f=open("/Users/Javad/Desktop/D/verbsPolarity2.txt",'w')
 		for verb in verbList:
 			plusscore,minusscore=returnPlusMinusLists(verb, lselected, [], fout)
 				#plusscore,minusscore=returnPlusMinusLists(verb, lplus, lminus)
 				#f.write(verb+'   '+returnLabel(plusscore,minusscore)+'   '+str(plusscore)+'   '+str(minusscore)+'\n')
-			#f.close()		
-		
-	
+			#f.close()
+
+
 	return 0;
 
 def main2():
@@ -231,7 +231,7 @@ def main2():
 	for l in lines:
 		ss = l.split(" ");
 		ss = ss[0].split("\t")
-		verbList.append(ss[0]);	
+		verbList.append(ss[0]);
 	for v in verbList:
 		l1 = wn.synsets(v, pos='v')
 		for v2 in verbList:
@@ -239,4 +239,3 @@ def main2():
 			print v + " " +v2 + " ";
 			print similarity(l1, l2);
 			print "\n";
-

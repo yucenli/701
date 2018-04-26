@@ -67,9 +67,9 @@ public class MathJsonGenerator {
 		for (World w : worlds) {
 			ArrayList<CompactQuantitativeEntity> compactQEntities = new ArrayList<CompactQuantitativeEntity>();
 			numQ++;
-			// if (w==null){
-			// continue;
-			// }
+			if (w==null){
+			  continue;
+			}
 			for (QuantitativeEntity qent : w.quantitativeEntities) {
 				if (qent.getVerbid()!=null){
 					compactQEntities.add(new CompactQuantitativeEntity(qent));

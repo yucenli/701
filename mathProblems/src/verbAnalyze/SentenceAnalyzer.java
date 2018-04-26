@@ -65,7 +65,8 @@ public class SentenceAnalyzer {
 			SIMandLEX = 4, STRUCTUREandLEX = 5, ALL = 6;
 
 	public static void main(String[] args) throws Exception {
-		MathCoreNLP.verbsAddress = "verbs.txt";
+/*
+		MathCoreNLP.verbsAddress = "verbs3.txt";
 		MathCoreNLP.setVerbMeans();
 
 		MathJsonGenerator.main(new String[] { "input_refined.txt" });
@@ -82,8 +83,10 @@ public class SentenceAnalyzer {
 		//
 		
 		test1();
+**/
 
-		/*
+        zeroVerbs = new HashSet<String>();
+
 		SentenceAnalyzer arffGenerator = new SentenceAnalyzer();
 		ArrayList<CompactQuantitativeEntity> cents = null;
 		try {
@@ -96,7 +99,7 @@ public class SentenceAnalyzer {
 
 		ArrayList<String> verbsList = arffGenerator
 				.generateArffWithFeatures(SIMandSTRUCTURE);
-		arffGenerator.analyzerArff(verbsList);*/
+		arffGenerator.analyzerArff(verbsList);
 	}
 
 	static void test1() throws Exception {

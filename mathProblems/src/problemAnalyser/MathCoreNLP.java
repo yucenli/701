@@ -164,11 +164,13 @@ public class MathCoreNLP {
 		if (args == null){
 //			sc = new Scanner(new File("all_a_refined.txt"));
 //			sc = new Scanner(new File("prev_a.txt"));
-			sc = new Scanner(new File("DfN/DS2/q.txt"));
+			//sc = new Scanner(new File("DfN/DS2/q.txt"));
 			// Scanner sc = new Scanner(new File("ixl_a.txt"));
 //			sc2 = new Scanner(new File("all_aa_refined.txt"));
-			sc2 = new Scanner(new File("DfN/DS2/ans.txt"));
+			//sc2 = new Scanner(new File("DfN/DS2/ans.txt"));
 //			sc2 = new Scanner(new File("prev_aa.txt"));
+			sc = new Scanner(new File("newQ.txt"));
+			sc2 = new Scanner(new File("newA.txt"));
 		}
 		else{
 			sc = new Scanner(new File(args[0]));
@@ -246,6 +248,14 @@ public class MathCoreNLP {
 				MathCoreNLP.println("i: " + i + " num q: " + numQ + " numhmm: "
 						+ howmmnum);
 				MathCoreNLP.println("cor: " + corrCount);
+				MathCoreNLP.println("msec: "
+						+ (System.currentTimeMillis() - time0));
+			}
+
+			if (i % 10 == 0) {
+				MathCoreNLP.println("i: " + i + " num q: " + numQ + " numhmm: "
+						+ howmmnum);
+				MathCoreNLP.println("cor: " + corrCount2);
 				MathCoreNLP.println("msec: "
 						+ (System.currentTimeMillis() - time0));
 			}

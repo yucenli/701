@@ -1,137 +1,190 @@
-Joan found 70 seashells on the beach . she gave Sam some of her seashells . She has 27 seashell . How many seashells did she give to Sam ? 
-There were 28 bales of hay in the barn . Tim stacked bales in the barn today . There are now 54 bales of hay in the barn . How many bales did he store in the barn ? 
-After eating at the restaurant , Sally , Sam , and Alyssa decided to divide the bill evenly . If each person paid 45 dollars , what was the total of the bill ? 
-Mary is baking a cake . The recipe wants 8 cups of flour . She already put in 2 cups . How many more cups does she need to add ? 
-Sara 's high school played 12 basketball games this year . The team won most of their games . They were defeated during 4 games . How many games did they win ? 
-There are 22 walnut trees currently in the park . Park workers will plant walnut trees today . When the workers are finished there will be 55 walnut trees in the park . How many walnut trees did the workers plant today ? 
-Mike had 34 peaches at his roadside fruit stand . He went to the orchard and picked peaches to stock up the stand . There are now 86 peaches at the stand , how many did he pick ? 
-There were 6 roses in the vase . Mary cut some roses from her flower garden . There are now 16 roses in the vase . How many roses did she cut ? 
-Benny bought a soft drink for 2 dollars and 5 candy bars . He spent a total of 27 dollars . How much did each candy bar cost ? 
-Benny bought 4 new baseball trading cards to add to his collection . The next day his dog ate 0.5 of his collection . There are now only 34 cards . How many cards did Benny start with ? 
-Alyssa spent half of her allowance going to the movies . She washed the family car and earned 8 dollars . What is her weekly allowance if she ended with 12 dollars ? 
-The sum of 3 consecutive even numbers is 162 . What is the smallest of the 3 numbers ? 
-Sam had 79 dollars to spend on 9 books . After buying them he had 16 dollars . How much did each book cost ? 
-Oceanside Bike Rental Shop charges 17 dollars plus 7 dollars an hour for renting a bike . Tom paid 80 dollars to rent a bike . How many hours did he pay to have the bike checked out ? 
-On Monday , 375 students went on a trip to the zoo . All 7 buses were filled and 4 students had to travel in cars . How many students were in each bus ? 
-Sandy sold half of her comic books and then bought 6 . She now has 13 . How many did she begin with ? 
-The sum of 3 consecutive odd numbers is 69 . What is the smallest of the 3 numbers ? 
-Joan went to 4 football games this year . She went to 9 games last year . How many football games did Joan go to in all ? 
-Tom has 9 yellow balloons Sara has 8 yellow balloons . How many yellow balloons do they have in total ? 
-There are 4 walnut trees currently in the park . Park workers will plant 6 walnut trees today . How many walnut trees will the park have when the workers are finished ? 
-Sam had 9 dimes in his bank . His dad gave him 7 dimes . How many dimes does Sam have now ? 
-Alyssa 's dog had puppies . She gave 7 to her friends . She now has 5 puppies . How many puppies did she have to start with ? 
-A restaurant served 9 pizzas during lunch and 6 during dinner today . How many pizzas were served today ? 
-There are 2 pencils in the drawer . Tim placed 3 pencils in the drawer . How many pencils are now there in total ? 
-Joan found 6 seashells and Jessica found 8 seashells on the beach . How many seashells did they find together ? 
-Sandy grew 6 carrots . Sam grew 3 carrots . How many carrots did they grow in total ? 
-Benny picked 2 apples and Dan picked 9 apples from the apple tree . How many apples were picked in total ? 
-Sally found 9 seashells , Tom found 7 seashells , and Jessica found 5 seashells on the beach . How many seashells did they find together ? 
-Tim 's cat had kittens . He gave 3 to Jessica and 6 to Sara . He now has 9 kittens . How many kittens did he have to start with ? 
-Joan has 9 blue balloons , Sally has 5 blue balloons , and Jessica has 2 blue balloons . How many blue balloons do they have in total ? 
-Melanie had 7 dimes in her bank . Her dad gave her 8 dimes and her mother gave her 4 dimes . How many dimes does Melanie have now ? 
-A restaurant served 5 cakes during lunch and 6 during dinner today . The restaurant served 3 cakes yesterday . How many cakes were served in total ? 
-Melanie picked 4 plums , Dan picked 9 plums , and Sally picked 3 plums from the plum tree . How many plums were picked in total ? 
-There are 7 dogwood trees currently in the park . Park workers will plant 3 dogwood trees today and 2 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ? 
-Sara grew 4 onions , Sally grew 5 onions , and Fred grew 9 onions . How many onions did they grow in all ? 
-Jason has 43 blue and 16 red marbles . Tom has 24 blue marbles . How many blue marbles do they have in all ? 
-Sam found 18 seashells and Mary found 47 seashells on the beach . How many seashells did they find together ? 
-Jason grew 23 watermelons and 18 turnips . Nancy grew 28 watermelons . How many watermelons did they grow in total ? 
-There are 11 rulers and 34 crayons in the drawer . Tim placed 14 rulers in the drawer . How many rulers are now there in all ? 
-Sara picked 45 pears and Sally picked 11 pears from the pear tree . How many pears were picked in total ? 
-Keith has 20 books . Jason has 21 books . How many books do they have together ? 
-Jason had 49 quarters in his bank . His dad gave him 25 quarters . How many quarters does he have now ? 
-Tom found 15 seashells and Fred found 43 seashells on the beach . When they cleaned them , they discovered that 29 were cracked . How many seashells did they find together ? 
-Sara has 31 red and 15 green balloons . Sandy has 24 red balloons . How many red balloons do they have in total ? 
-Joan picked 37 oranges and Sara picked 10 oranges . Alyssa picked 30 pears . How many oranges were picked in total ? 
-Fred went to 36 basketball games this year , but missed 35 . He went to 11 games last year . How many basketball games did Fred go to in total ? 
-There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ? 
-Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ? 
-Dan grew 42 turnips and 38 cantelopes . Jessica grew 47 turnips . How many turnips did they grow in total ? 
-There are 33 walnut trees currently in the park . Park workers will plant 44 walnut trees today . How many walnut trees will the park have when the workers are finished ? 
-Sara had 21 quarters in her bank . Her dad gave her 49 quarters . How many quarters does she have now ? 
-There are 41 pencils in the drawer . Mike placed 30 pencils in the drawer . How many pencils are now there in total ? 
-Joan has 10 books . Tom has 38 books . How many books do they have together ? 
-Joan has 40 blue balloons Melanie has 41 blue balloons . How many blue balloons do they have in total ? 
-Fred grew 38 cantelopes . Tim grew 44 cantelopes . How many cantelopes did they grow in total ? 
-Sam went to 14 football games this year . He went to 29 games last year . How many football games did Sam go to in all ? 
-Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ? 
-There are 39 dogwood trees currently in the park . Park workers will plant 41 dogwood trees today and 20 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ? 
-Sandy has 10 books , Benny has 24 books , and Tim has 33 books . How many books do they have together ? 
-Jason picked 46 pears , Keith picked 47 pears , and Mike picked 12 pears from the pear tree . How many pears were picked in total ? 
-Keith grew 29 cantelopes , Fred grew 16 cantelopes , and Jason grew 20 cantelopes . How many cantelopes did they grow in total ? 
-Melanie had 19 dimes in her bank . Her dad gave her 39 dimes and her mother gave her 25 dimes . How many dimes does Melanie have now ? 
-Alyssa has 37 blue balloons , Sandy has 28 blue balloons , and Sally has 39 blue balloons . How many blue balloons do they have in all ? 
-Sally had 27 cards . Dan gave her 41 new cards . Sally bought 20 cards . How many cards does Sally have now ? 
-Jason went to 11 football games this month . He went to 17 games last month , and plans to go to 16 games next month . How many games will he attend in all ? 
-There are 43 pencils in the drawer and 19 pencils on the desk . Dan placed 16 pencils on the desk . How many pencils are now there in total ? 
-Mike has 35 books in his library . He bought several books at a yard sale over the weekend . He now has 56 books in his library . How many books did he buy at the yard sale ? 
-Sandy is baking a cake . The recipe wants 7 cups of flour . She already put in 4 cups . How many more cups does she need to add ? 
-There are 53 maple trees currently in the park . Park workers will plant maple trees today . When the workers are finished there will be 64 maple trees in the park . How many maple trees did the workers plant today ? 
-Dan found 56 seashells on the beach , he gave Jessica some of his seashells . He has 22 seashell . How many seashells did he give to Jessica ? 
-Sally had 13 peaches at her roadside fruit stand . She went to the orchard and picked peaches to stock up the stand . There are now 55 peaches at the stand , how many did she pick ? 
-Benny received 67 dollars for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 33 dollars over , how much did he spent on the baseball gear ? 
-There were 3 roses in the vase . Alyssa cut some roses from her flower garden . There are now 14 roses in the vase . How many roses did she cut ? 
-Last week Tom had 74 dollars . He washed cars over the weekend and now has 86 dollars . How much money did he make washing cars ? 
-There were 73 bales of hay in the barn . Jason stacked bales in the barn today . There are now 96 bales of hay in the barn . How many bales did he store in the barn ? 
-Nancy grew 6 potatoes . Sandy grew 7 potatoes . How many potatoes did they grow in total ? 
-There are 9 crayons in the drawer . Benny placed 3 crayons in the drawer . How many crayons are now there in total ? 
-There are 5 oak trees currently in the park . Park workers will plant 4 oak trees today . How many oak trees will the park have when the workers are finished ? 
-Tom found 7 seashells but 4 were broken . How many unbroken seashells did Tom find ? 
-Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree . How many lemons were picked in total ? 
-A restaurant served 6 cakes during lunch and 9 during dinner today . How many cakes were served today ? 
-Joan has 8 orange balloons but lost 2 of them . How many orange balloons does Joan have now ? 
-Fred had 7 dimes in his bank . His sister borrowed 3 of his dimes . How many dimes does Fred have now ? 
-Joan 's cat had 8 kittens . She gave 2 to her friends . How many kittens does she have now ? 
-There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ? 
-There are 27 pencils in the drawer . Nancy placed 45 pencils in the drawer . How many pencils are now there in total ? 
-Sam found 35 seashells on the beach , he gave Joan 18 of the seashells . How many seashells does he now have ? 
-Tim has 22 books . Mike has 20 books . How many books do they have together ? 
-Mike has 87 baseball cards . Sam bought 13 of Mike 's baseball cards . How many baseball cards does Mike have now ? 
-Sandy grew 51 pumpkins . Mike grew 23 pumpkins . How many pumpkins did they grow in total ? 
-Tim has 44 books . Sam has 52 books . How many books do they have together ? 
-Dan has 64 violet marbles , he gave Mary 14 of the marbles . How many violet marbles does he now have ? 
-There are 25 popular trees currently in the park . Park workers will plant 73 popular trees today . How many popular trees will the park have when the workers are finished ? 
-There are 54 scissors in the drawer . Keith placed 22 scissors in the drawer . How many scissors are now there in all ? 
-Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree . How many pears were picked in all ? 
-Sam had 98 pennies in his bank . He spent 93 of his pennies . How many pennies does he have now ? 
-Joan found 79 seashells on the beach , she gave Mike 63 of the seashells . How many seashells does she now have ? 
-Sam has 110 books . Joan has 102 books . How many books do they have together ? 
-Mary picked 122 oranges and Jason picked 105 oranges from the orange tree . How many oranges were picked in total ? 
-Sally had 760 quarters in her bank . She spent 418 of her quarters . How many quarters does she have now ? 
-Melanie grew 139 turnips . Benny grew 113 turnips . How many turnips did they grow in all ? 
-Jason has 676 Pokemon cards . Alyssa bought 224 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ? 
-There are 107 walnut trees currently in the park . Park workers will plant 104 walnut trees today . How many walnut trees will the park have when the workers are finished ? 
-Fred has 709 green balloons , he gave Sandy 221 of the balloons . How many green balloons does he now have ? 
-There are 115 pencils in the drawer . Sara placed 100 pencils in the drawer . How many pencils are now there in all ? 
-Mike has 45 dollars in 5 dollar bills . How many 5 dollars bills does he have ? 
-Nancy goes fishing with Joan . They catch 18 trout . If they equally split up the trout , how may will each 1 get ? 
-A restaurant sold 63 hamburgers last week . How many hamburgers on average were sold each day ? 
-Dan was at the beach for 5 days and found 36 seashells . He plans to give all of his seashells equally to his 4 friends . How many seashells will each friend get ? 
-Sandy worked 45 hours in the last 5 days . Assuming that she worked the same amount of hours each day , how long did she work each day ? 
-There were a total of 27 soccer games during the 3 month season . If the games are equally divided , how many soccer games are played a month ? 
-Fred has 90 cents in his bank . How many dimes does Fred have ? 
-Fred has 110 blue marbles . Fred has 22 times blue marbles than Tim . How many blue marbles does Tim have ? 
-There are 390 students at a school . If each classroom holds 30 students , how many classrooms are needed at the school ? 
-Mike has 96 muffins , which he needs to box up into dozens . How many boxes does he need ? 
-Tim has saved 2000 cents from selling lemonade . How many dollars does Tim have ? 
-Jason 's shelves hold 45 books each . How many shelves will Jason need if Jason has 315 books ? 
-Nancy bought 615 crayons that came in packs of 15 . How many packs of crayons did Nancy buy ? 
-Mary earns $ 46 cleaning a home . How many homes did she clean , if she made 276 dollars ? 
-There were a total of 323 football games in the season . The season is played for 17 months . How many football games were played each month , if each month has the same number of games ? 
-Nancy , Melanie , Mary , and Alyssa each bought 540 baseball cards , which come in packs of 20 . How many packs of baseball cards do they have in all ? 
-A teacher has 344 pieces of candy . If there are 43 students , and the candy is divided evenly , How many pieces will each student get ? 
-Sally earns $ 25.00 for each house she cleans . If she cleans 96 houses , how many dozens of dollars will she make ? 
-There are 60 calories in a candy bar . How many dozen calories are there in 45 candy bars ? 
-Sara saw 96 birds in a tree . How many dozen birds did Sara see ? 
-Melanie has 84 blue marbles . Sandy has 8 times blue marbles than Melanie . How many dozen blue marbles does Sandy have ? 
-Sara has 192 golf balls . How many dozen golf balls does she have ? 
-Keith bought 72 eggs from the store to bake some cakes . How many dozen eggs did Keith buy ? 
-Mike has 48 books . Alyssa has 8 times books than Mike . How many dozen books does Alyssa have ? 
-Sara has saved 9 dollars from washing cars . How many dozen quarters does Sara have ? 
-Sara , Keith , Benny , and Alyssa each have 96 baseball cards . How many dozen baseball cards do they have in all ? 
-Jason has 3 Pokemon cards . Benny bought 2 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ? 
-Mike has 8 orange marbles , he gave Sam 4 of the marbles . How many orange marbles does he now have ? 
-Joan had 5 dimes in her bank . She spent 2 of her dimes . How many dimes does she have now ? 
-There are 2 rose bushes currently in the park . Park workers will plant 4 rose bushes today . How many rose bushes will the park have when the workers are finished ? 
-Sara picked 6 pears and Tim picked 5 pears from the pear tree . How many pears were picked in total ? 
-Sam grew 4 watermelons , but the rabbits ate 3 watermelons . How many watermelons does Sam have ? 
+You have 160 dollars and save 7 dollars per week . Your friend has 210 dollars and saves 5 dollars per week . After how many weeks will each of you have saved the same amount of money ? 
+A theater has 80 seats . On opening night , they sold out , selling adult tickets for 12 dollars each and child tickets for 5 dollars each . If they made a total of 519 dollars , how many child tickets were sold ? 
+A 20-foot board is cut into 2 pieces . Twice the length of the shorter piece is 4 feet than the length of the longer piece . Find the length of the shorter piece . 
+You are traveling to your mothers house that is 234 miles away . If you are currently twice as far from your house as you are from your mothers house how far have you traveled ? Round to the nearest tenth mile . 
+For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute . Last month , Milan 's long distance bill was 23.36 dollars . For how many minutes was Milan billed for ? 
+The maximum load that a horizontal beam can carry is directly proportional to its width . If a beam 1.5 inches wide can support a load of 250 pounds , find the load that a beam of the same type can support if its width is 3.5 inches ? 
+The value of a sport utility vehicle this year is 16000 dollars , which is 0.8 of what its value was last year . Find the value of the vehicle last year . 
+Trenton sells electronic supplies . Each week he earns 190 dollars plus commission equal to 4 % of his sales . This week his goal is to earn no less than 500 dollars . Write and solve an inequality to find the amount of sales he must make to reach his goal . 
+A 68-foot pipe is cut into 2 pieces , 1 of which is 12 feet less than the other . What is the length of the shorter piece in feet ? 
+Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry . How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy ? 
+Find a number so that 10 less than 0.6667 the number is 0.25 the number . 
+A semi truck travels on a paved road for 2 hours at an average speed of 20 miles per hour faster than it travels on a dirt road . The time spent on the dirt is 3 hours . If the entire trip is 200 miles , how fast is the truck traveling on the dirt road ? 
+Tickets for a concert were priced at 9 dollars for students and 11 dollars for non-students . There were 2000 tickets sold for a total of 20960 dollars . How many student ticket were sold ? 
+Mary began walking home from school , heading south at a rate of 4 miles per hour . Sharon left school at the same time heading north at 6 miles per hour . How long will it take for them to be 3 miles apart ? 
+The weight of an object on the moon varies directly to its weight on earth . A person who weights 133 pounds on earth weighs 26.6 pounds on the moon . How many pounds would a 136-pound person weigh on the moon ? 
+A bank teller has 54 5-dollar and 20-dollar bills in her cash drawer . The value of the bills is 780 dollars . How many 5 dollars bills are there ? 
+A student is pricing 2 different picture packages . John 's Photo World charges 2.75 dollars per sheet and a 1 time sitting fee of 125 dollars . Sam 's Picture Emporium charges 1.50 dollars per sheet and a 1 time sitting fee of 140 dollars . For how many sheets of pictures do the 2 companies charge the same amount ? 
+Suppose you invest 1500 dollars in equipment to put pictures on T-shirts . You buy each T-shirt for 3 dollars . After you have placed the pictures on a shirt , you sell it for 20 dollars . How many T-shirts must you sell to break even ? 
+A car rented for 29 dollars per day plus 0.08 dollars per mile . Julia paid 46.12 dollars for a 1-day rental . How far did she drive , in miles ? 
+A worker gets 60 cents an hour for ordinary time and 90 cents an hour for overtime . If she gets 32.40 dollars for a 50 hour week , how many hours are overtime ? 
+A student works 2 part-time jobs . He earns 8.00 dollars an hour working at the college library and 15.00 dollars and hour for construction work . To save time for study , be limits his work to 25 hours a week . If he enjoys the work at the library more , how many hours can he work at the library and still earn at 300 dollars a week ? 
+0.5 of a certain number is 10 than 0.1667 of a number . Find the number . 
+1 gallon container is full of a 75 % alcohol solution . How much must be drained off and replaced by a 50 % alcohol solution to produce 1 gallon of 65 % alcohol solution ? 
+Ron and Kathy are ticket-sellers , Ron handling student tickets that sell for 2.00 dollars each and Kathy selling adult tickets for 4.50 dollars each . If their total income for 20 tickets was 60.00 dollars , how many did Ron sell ? 
+Juan and Peter both leave a shopping center at the same time going in opposite directions . Juan is on his bike and travels 3 miles per hour faster than Peter who is on his skateboard . After 1.5 hours they are 19.5 miles apart . How fast does Peter travel ? 
+An ice skating rink charges 5 dollars for admission and 2.50 dollars to rent skates . Jill can purchase a new pair of skates for 65 dollars . How many times would she need to go the rink to justify buying the skates rather than renting a pair ? 
+Pencils cost 6 dollars per carton and erasers cost 3 dollars per carton . If an order comes in for a total of 100 cartons for 360 dollars , what was the specific number of cartons of pencils ? 
+Walt made an extra 9000 dollars last year from a part-time job . He invested part of the money at 9 % and the rest at 8 % . He made a total of 770 dollars in interest . How much was invested at 8 % ? 
+0.5 of a number is 2 than 0.25 of the number . Find the number . 
+A small publishing company is planning to publish a new book . The production costs will include one-time fixed costs and variable costs . The one-time fixed costs will amount to 35630 dollars . The variable costs will be 11.50 dollars per book . The publisher will sell the finished product to bookstores at a price of 20.25 dollars per book . How many books must the publisher print and sell so that the production costs will equal the money obtained from sales ? 
+A car rents for 30 dollars per day plus 23 cents per mile . You are on a daily budget of 76 dollars . What mileage can you go and stay within your budget ? 
+A 5-pound bag of apples costs 3.50 dollars . At the same rate , what would be the cost of 7 pounds of apples in dollars ? 
+Michael rented a truck for 1 day . There was a rental fee of 20.99 dollars , and there also was a charge of 25 cents for each mile . Michael paid 95.74 dollars when he returned the truck . For how many miles did he drive the truck ? 
+Tony planted a 4 foot tree . The tree grows at a rate of 5 feet every year . How many years will it take to be 29 feet ? 
+Safety Rent A Truck costs 41.95 dollars plus 0.29 dollars per mile . City Rentals rents the truck for 38.95 dollars plus 0.31 dollars per mile . For what mileage are the costs the same ? 
+A plane travels due East at 325 miles per hour and another plane travels due west at 275 miles per hour . If they leave at the same time , and from the same place , in how many hours will they be 2100 miles apart ? 
+The difference between 2 times a number and -8 is -12 . Find the number . 
+A painting is 10 inches tall and 15 inches wide . A print of the painting is 25 inches tall , how wide is the print in inches ? 
+In college there are 15 times as many students as professors . If together the students and professors number 40000 , how many students are there in college ? 
+193 tickets were sold for the Class of 2003 ice cream picnic . Each student ticket costs 0.50 dollars each , and each non-student ticket costs 1.50 dollars each . A total of 206.50 dollars was collected . How many student tickets were sold ? 
+A washer and a dryer cost 600 dollars combined . The price of the washer is 3 times the price of the dryer . What is the cost of the dryer ? 
+3 times a number is the same as the difference of twice the number and 7 . Find the number . 
+.833 of a number is -60 . What is the number ? 
+The sum of 20 a number is 30 . 
+How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution ? 
+For a matinee , a movie theater charges 4.50 dollars for children and 6.75 dollars for adults . At today 's matinee , there are 20 children than adults and the total receipts are 405 dollars . How many children are at today 's matinee ? 
+Sunshine Car Rentals rents a basic car at a daily rate of 17.99 dollars plus 0.18 per mile . City Rentals rents a basic car at 18.95 dollars plus 0.16 per mile . For what mileage is the cost the same ? 
+The sum of 38 twice a number is 124 . Find the number . 
+It takes a boat 4 hours to travel 24 miles down a river and 6 hours to return upstream to its starting point . What is the rate of the current in the river ? 
+The state market has 27 apples than oranges . There are 301 apples and oranges all together . How many apples are in the market ? 
+Find the number whose double is 45 greater than its half ? 
+A carpenter gave an estimate of 980 dollars to build a cover over a patio . His hourly rate is 28 dollars and he expects to need 560 dollars in materials . How many hours will the job take ? 
+Adult tickets for a play cost 8 dollars and child tickets cost 1 dollars . If there were 22 people at a performance and the theater collected 50 dollars from ticket sales , how many children attended the play ? 
+kevin bought 3 muffins and a bottle of juice that cost 1.45 dollars . He paid a total of 3.70 dollars . How much did each muffin cost ? 
+The tallest player on the basketball team is 77.75 inches tall . This is 9.5 inches taller than the shortest player . How tall is the shortest player , in inches ? 
+0.20 of a number decreased by 4 is equal to 6 . Find the number . 
+The probability that San Francisco plays in the next super bowl is 9 times the probability that they do not play in the next super bowl . The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1 . What is the probability that San Francisco plays in the next super bowl ? 
+Freeport McMoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand . What will the world grain demand be in 2010 ? 
+Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month . For what amount of sales will the 2 choices be equal ? 
+A 12 ounce can of cranberry juice sells for 84 cents . Give the unit cost in cents per ounce . 
+Pencils cost 25 cents a piece . Pens cost 80 cents a piece . Susan spent 20 dollars for a total of 36 pens and pencils . How many pencils did she buy ? 
+Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile . City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile . For what milage is the cost the same ? 
+2 airplanes left the same airport traveling in opposite directions . If 1 airplane averages 400 miles per hour and the other 250 miles per hour , how many hours will it take for the distance between them be 1625 miles ? 
+Lakota bought 6 new compact disks and 2 used compact disks for 127.92 dollars . At the same prices , Mackenzie bought 3 new compact disks and 8 used compact disks for 133.89 dollars . Find the cost of buying a single used compact disk . 
+A garden table and a bench cost 450 dollars combined . The price of the garden table is 2 times the price of the bench . What is the cost of the bench , in dollars ? 
+Manuel opened a savings account with an initial deposit of 177 dollars . If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars ? 
+The first agency charges 20.25 dollars per day and 0.14 dollars per mile . The second agency charges 18.25 dollars per day and 0.22 dollars per mile . How many miles would you have to drive before the first agency is less expensive than the second ? 
+A weight of 80 pounds stretches a spring 4.5 inches . How far will a weight of 125 pounds stretch the spring ? 
+A math test is worth 100 points and has 30 problems . Each problem is worth either 3 points or 4 points . How many 4 point problems are there ? 
+A mechanic charged 45 dollars an hour , plus 225 dollars for the parts . If the total bill was 450 dollars , how man hours did the job take ? 
+On a college entrance exam , each correct answer adds 1 point to your raw score , each unanswered question adds nothing and each incorrect answer subtracts 0.25 point . You answer 82 out of 85 questions for a raw score of 67 . How many questions did you answer correctly ? 
+The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor . There are 120 in the whole group and there are twice as many children as adults in the group . How many children are there ? 
+A plane is using fuel at the rate of 9.5 gallons per hour and it has 6.3333 gallons in its tank . How long can the plane continue to fly ? 
+17 is 4 less than 8 times a number . Find the number . 
+1000 quarts of milk testing 4 % butterfat are to be reduced to 3 % . How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result ? 
+A plane flies 900 miles with a tail wind in 3 hours . The same plane takes 4 hours to make the return trip against the wind . What is the speed of the plane in still air ? 
+There are 7066 known nesting pairs of bald eagles in the lower 48 states today . This is 6649 pairs than in 1963 . How many nesting pairs of bald eagles were there in the lower 48 states in 1963 ? 
+On a test containing 120 questions , the final score is based on 1 point for each correct answer and 0.25 of a point subtracted for each incorrect answer . Allan answered all of the questions and received a final score of 100 points . How many questions did Allan answer correctly ? 
+A garden table and a bench cost 750 combined . The price of the garden table is 2 times the price of the bench . What is the cost of the bench ? 
+The sum of 5 a number is 20 . Find the number . 
+Goran will rent a car for the weekend . He can choose 1 of 2 plans . The first plan has an initial fee of 65 dollars and costs an additional 0.40 dollars per mile driven . The second plan has no initial fee but costs 0.60 dollars per mile driven . How many miles would Goran need to drive for the 2 plans to cost the same ? 
+There are 27 students in an Algebra 1 class . There are 5 fewer girls than boys . How many girls are in the class ? 
+During the 3994002 Little League season , the Tigers played 57 games . They lost 21 games than they won . They did n't tie any . How many games did they win that season ? 
+1 number exceeds another by 10 their sum is 34 . Find the larger number . 
+A chemistry lab can be used by 38 students at 1 time . The lab has 16 work-stations . Some set up for 2 students and the others set up for 3 students . How many work-stations accommodate 2 students ? 
+The difference of 3 times a number and 5 is 40 . Find the number . 
+Matthew has 2 different stocks . 1 of the stocks is worth twice as much per share as the other . He has 14 shares of the valuable stock and 26 shares of the other stock . His total assets in stocks is 2106 dollars . How much is the more expensive stock per share ? 
+A garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers . How many gallons of 100 percent antifreeze should he mix with some 10 percent antifreeze mixture in order to fill the drum ? 
+The second number is 3 less than twice the first number . Their sum is 57 . Find the second number . 
+For his long distance phone calls , John pays a 5 dollars monthly fee plus 25 cents per minute . Last month , John 's long distance bill was 12.02 dollars . For how many minutes was John billed ? 
+During a sale an automobile dealer sold 69 cars and trucks . If she sold 27 more cars than trucks how many trucks did she sell ? 
+For a certain event , 821 tickets were sold , for a total of 1933 dollars . If students paid 2 dollars per ticket and nonstudents paid 3 dollars per ticket , how many student tickets were sold ? 
+A water flow restrictor has reduced the flow of water to 2 gallons per minute . This amount is 1 gallon per minute less than 0.6 the original flow rate . Find the original rate in gallons per minute . 
+A car rents for 50 dollars a day plus 20 cents a mile . You are on a daily budget of 88 dollars . What maximum mileage will allow you to stay within your budget ? 
+A building with 12 units consists of 1 bedrooms costing 360 dollars and 2 bedrooms costing 450 dollars respectively . When all units are full the total is 4950 dollars . How many 2 bedroom units are there ? 
+A woman is paid 20 dollars for each day she works and forfeits 5 dollars for each day she is idle . At the end of 25 days she nets 450 dollars . How many days did she work ? 
+Twice a number equals 25 less than triple the same number . What is the number ? 
+2 cars leave the same point , traveling in opposite directions . If 1 travels at a constant speed of 52 miles per hour and the other travels at a constant speed of 58 miles per hour . In how many hours will they be 385 miles apart ? 
+Lane invested 22000 dollars , part at 8 % and part at 7 % . If the total interest at the end of the year is 1710 dollars , how much did she invest at 8 % ? 
+Think of a number , half it and the result is 9 . Find the number . 
+1.3333 of a number is 4.82 , what is the number ? 
+The manager of a discount clothing store received 2 shipments of Fall clothing . The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars . The second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets . The second shipment was 550 dollars . Find the cost of 1 jacket , in dollars . 
+High school graduating class is made up of 466 students . There are 212 girls than boys . How many boys are in the class ? 
+Student Council wants to rent a banquet hall for the prom . Caesar 's charges 800 dollars to rent the room and 30 dollars for each meal . Venus Hall charges 500 dollars to rent the room and 35 dollars for each meal . How many guests must attend the prom for the costs of the 2 halls to be the same ? 
+When 4 times the number is added to 7 times the number the result is 55 . What is the number ? 
+Sara and Jim both decided to save some money each week . Sara has already saved 4100 dollars , and she plans to save 10 dollars a week . Jim plans to save 15 dollars a week . In how many weeks will Jim and Sara have saved the same amount ? 
+You are making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture . How much of the 80 % cement mixture must you use ? Answer in units of tons . 
+A car traveled 715 kilometers in 11 hours . What was its average speed ? 
+You make candles and sell them for 15 dollars each . The material to make up to 20 candles costs 20 dollars . How many candles must you sell to have a profit of 85 dollars ? 
+Tim and Judy mix 2 kinds of feed for pedigreed dogs . They wish to make 35 pounds of feed worth 0.36 dollars per pound by mixing 1 kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound . How many pounds of the cheaper kind should they use in the mix ? 
+If your gross pay is 450 dollars , while your net pay is 315 dollars , how much do you pay in taxes ? Assume that all tax dollars are not included in net pay . 
+The product of 10 a number is the same as 36 less twice that same number . Find the number . 
+A woman invested a total of 9000 dollars in 2 accounts , 1 earning 6.5 % annual interest and the other earning 8 % annual interest . After 1 year , her combined interest was 678.87 dollars . How much did she invest in the account paying 8 % interest , in dollars ? 
+In a test of 30 questions , 20 points are given for each correct answer and 5 points are deducted for each 1 answered incorrectly . If Maria answered all of the questions and got a score of 325 , how many did she get correct ? 
+If 120 lollipops cost 90 dollars , how much does 1 lollipop cost , in dollars ? 
+Rita received a 70 dollars gift card for a coffee store . She used it in buying some coffee that cost 8.58 dollars per pound . After buying the coffee , she had 35.68 dollars on her card . How many pounds of coffee did she buy ? 
+The difference between 3 times a number and 1 is the same as twice a number . Find the number . 
+At the carnival , tickets for the rides are 0.75 dollars each , or you can buy an armband for 15 dollars and ride unlimited for 1 night . At how many rides does the armband cost the same as buying individual tickets ? 
+A car rents for 30 dollars per day plus 18 cents per mile . You are on a budget of 75 dollars . What mileage would allow you to stay within your budget ? 
+According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size . For a woman with 40 inch hips , the maximum ideal waist size is 32 inches . What is the maximum waist size for a woman with 35 inch hips ? 
+0.6667 of a number increased by 0.75 is 1.6667 , what is the number ? 
+Admission tickets to a theater were 60 cents for adults and 25 cents for children . Receipts for the day showed that 280 persons attended and 140 dollars was collected . How many children attended that day ? 
+A mixture of water and antifreeze in a car is 10 % antifreeze . In colder climates this mixture should contain 50 % antifreeze . If the radiator contains 4 gallons of fluid , how many gallons of radiator fluid should be drained and replaced with a mixture containing 80 % antifreeze ? 
+Soft drinks are on sale at the grocery store for 2.99 dollars for a 12 pack . How much would each can of soft drink cost if purchased individually , in dollars ? 
+A textbook costs a bookstore 44 dollars , and the store sells it for 55 dollars . Find the amount of profit based on the selling price . 
+If the product of 5 a number is increased by 4 , the result is 19 . What is the number ? 
+Customers of a phone company can choose between 2 service plans for long distance calls . The first plan has a 22 dollars monthly fee and charges an additional 0.13 dollars for each minute of calls . The second plan has an 8 dollars monthly fee and charges an additional 0.18 dollars for each minute of calls . For how many minutes of calls will the costs of the 2 plans be equal ? 
+In 1 day , a store sold 1.6 as many DVDs as CDs . The total number of DVDs and CDs sold that day was 273 . How many DVDs were sold ? 
+A rancher raises 5 times as many cows as horses . If he has 168 animals , how many cows does he have ? 
+Jason earns 4.00 dollars per hour working after school and he earns 6.00 dollars per hour working on Saturday . If he works 18 hours in a week and earned 88.00 dollars , how many hours did he work on Saturday ? 
+Sam has 30 nickels and dimes worth 2.40 dollars . How many nickels does he have ? 
+There were 42 people . There were twice as many children as adults . How many children attended ? 
+About 4900000 households had 1 brand of personal computers in 2001 . The use of these computers grew at an average rate of 275000 households a year . In 2001 , about 2.5 millions households used another type of computer . The use of these computers grew at an average rate of 700000 households a year . How long will it take for the 2 types of computers to be in the same number of households ? 
+A furniture dealer has 36 tables . Some tables have 4 legs and some have 3 legs , but she does n't know how many of each kind there are . She has counted 124 legs in total . How many 4 legged tables are there ? 
+Northwest Molded molds plastic handles which cost 0.60 dollars per handle to mold . The fixed cost to run the molding machine is 7640 dollars per week . If the company sells the handles for 4.60 dollars each , how many handles must be molded and sold weekly to break even ? 
+The shoe store has twice as many black shoes as it does brown shoes . The total number of shoes is 66 . How many brown shoes are there ? 
+Latoya purchased a prepaid phone card for 30 dollars . Long distance calls cost 16 cents a minute using this card . Latoya used her card only once to make a long distance call . If the remaining credit on her card is 26.48 dollars , how many minutes did her call last ? 
+The total cost of a shirt and a sweater is 80.34 dollars . If the price of the shirt is 7.43 dollars less than the sweater , what was the price of the shirt , in dollars ? 
+If 2.5 costs 20 dollars , how much does 3.5 cost , in dollars ? 
+Twice a number increased by 5 is 17 . Find the number . 
+36 than the product of 3 x is the same as 48 . Solve for x. 
+A total of 32000 dollars is invested in 2 municipal bonds that pay 5.75 % and 6.25 % simple interest . The investor wants an annual interest income of 1900 dollars from the investments . What amount should be invested in the 5.75 % bond ? 
+A small publishing company has a 1 time product cost for editing and printing of 56430 dollars . Variable cost per book is 8.25 dollars . The publisher is selling the book to the store for 21.75 dollars . How many books must the publisher print and sell so that the production cost will equal the money obtained from sells ? 
+The sum of 2 numbers is 24 . 7 times the smaller number is the same as 5 times the larger number . Find the smaller number . 
+How many milliliters of a 10 % HCL solution should be combined with a 60 % HCL solution in order to get 50 milliliters of a 30 % HCL solution ? 
+A baseball player has a batting average of 0.320 with 192 hits in 600 bats . His average against left-handed pitching is 0.250 . Against right-handed pitching it is 0.350 . How many times did he bat against left-handers ? 
+If 6 is subtracted from 3 times a number , the difference is twice the number . What is the number ? 
+Janet invested 31000 dollars , part at 10 % and part at 1 % . If the total interest at the end of the year is 1390 dollars , how much did she invest at 10 % ? 
+The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters . Find the length of the line . 
+Cynthia works at a grocery store . She knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans . This week she ordered a total of 12 cans . How many cans of chili beans did she order ? 
+The Jurassic Zoo charges 8 dollars for each adult and 4 dollars for each child . Total bill for the 201 people was 964 dollars . How many children were at the zoo ? 
+7 times a number is the same as 12 than 3 times the number . Find the number . 
+If 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork while 875 pesos can buy 7 kilograms of fish and 3 kilograms of pork , how much does a kilogram of fish cost ? 
+A teacher gives out a test of 30 problems . Each computation problem is worth 3 points . Each word problem is worth 5 points . The total points you can receive on the test is 110 points . How many computation problems are there ? 
+University Theater sold 510 tickets for a play . Tickets cost 21 dollars per adult and 15 dollars per senior citizen . If total receipts were 8748 dollars , how many senior citizen tickets were sold ? 
+2 trains leave simultaneously traveling on the same track in opposite directions at speeds of 3200 miles per hour . How many hours will it take before they are 285 miles apart ? 
+Tickets at a local theater cost 6 dollars for adults and 2 dollars dollars for kids under 12 . If 175 tickets were sold and the profit was 750 dollars , how many kid tickets were sold ? 
+A recipe calls for 2 cups of sugar . You find that you only have 0.3333 cups of sugar . What fraction of the recipe can you make ? 
+Tickets to a local movie were sold at 4 dollars for adults and 2.50 dollars for students . If 59 tickets were sold for a total of 222.50 dollars , how many student tickets were sold ? 
+0.4 of Joe 's income each month goes to taxes . If she pays 848 dollars in taxes each month , what is her monthly income in dollars ? 
+Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales . What must the amount of his sales be , in dollars , for him to earn at least 1500 dollars each month ? 
+Steve has 36 coins consisting of dimes and nickels . If the value of the coins is 3.10 dollars , then how many dimes does he have ? 
+The selling price of a pair of pants is 34 dollars . If the store paid 8 dollars less for the pants , find the price that the store paid , in dollars . 
+The sum of 0.75 of a number and 2 is 8 . Find the number . 
+7 less than 4 times a number equals 13 . What is the number ? 
+The Drama Club sold 1500 tickets for the end-of-year-performance . Admission prices were 12 dollars for adults and 6 dollars for students . The total amount collected at the box office was 16200 dollars . How many students attended the play ? How many adult attended the play ? 
+The number of boys in eighth grade is 16 less than twice the number of girls . There are 68 students in eighth grade . How many are girls ? 
+It took me 6 minutes to walk 500 meters . How fast was I travelling ? 
+The total cost of a pair of pants and a belt was 70.93 dollars . If the price of the pair of pants was 2.93 dollars less than the belt , what was the price of the pair of pants ? 
+24 is divided in 2 parts such that 7 time the first part added to 5 times the second part makes 146 . What is the first part ? 
+Arthur bought 3 hamburgers and 4 hot dogs for 10 dollars . The next day , he bought 2 hamburgers and 3 hot dogs for 7 dollars . How much does a hot dog cost ? 
+1 year Walt invested 12000 dollars . He invested part of the money at 7 % and the rest at 9 % . He made a total of 970 dollars in interest . How much was invested at 7 % ? 
+In a class of 35 students the number of girls is 0.4 of the number of boys . Find the number of girls in the class . 
+A high school graduating class is made up of 485 students . There are 69 girls than boys . How many boys are in the class ? 
+2 teams of scientists leave a university at the same time in special vans to search for tornadoes . the 1st team travel east at 20 miles per hour and the 2nd team travels west at 30 miles per hour . their radios have a range of 125 miles . How much time will pass before the scientists lose radio contact ? 
+A physician 's assistant measures a child and finds that his height is 41.5 inches . At his last visit to the doctor 's office , the child was 38.5 inches tall . How much did the child grow , in inches ? 
+If 3.5 pounds of ground beef costs 9.77 dollars , how much does 5.6 pounds of ground beef cost ? 
+Pedro goes to the market and buys a total of 32 plums and peaches for 52 dollars . A plum costs 2 dollars and a peach costs 1 dollars . How many plums did Pedro buy ? 
+A bottle of wine with a cork cost 2.10 dollars . A bottle of wine without a cork costs 2.00 dollars than the cork . What is the price of the cork ? 
+A total of 366 tickets were sold for the school play . The number of student tickets sold was 2 times the number of adult tickets sold . How many adult tickets were sold ? 
+The length of a rectangular field is 24 meters . This is 3 meters less than twice the width . Find the width . 
+Mitch is buying candy bars for his friends . He wants to give 2 bars to each friend , and he wants to have 10 spare bars . He can afford to buy 24 candy bars . How many friends can he treat ? 
+Bob invested 22000 dollars , part at 18 % and part at 14 % . If the total interest at the end of the year is 3360 dollars , how much did he invest at 18 % ? 
+Adult tickets for a show cost 5.50 dollars while children 's tickets cost 2.50 dollars . If there were twice as many adults as children and the total receipts for the show were 1026 dollars . How many adults were at the show ? 
+Find a number such that 1 than 0.6667 the number is 0.75 the number . 
+Your cell phone company offers 2 text-messaging plans . Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars . The other plan costs 0.40 dollars per text message with no monthly fee . For how many text messages will both plans cost the same amount ? 
+Steve invests in a circus production . The coast includes an overhead of 81000 dollars , plus production costs of 7000 dollars per performance . A sold-out performance brings in 16000 dollars , Determine the number of sold-out performances , x , needed to break even . 
+1 number is 11 than 3 times another number . Their sum is 55 . Find the smaller number . 
+A plane flying with a tail wind flew at a speed of 460 miles per hour , relative to the ground . When flying against the tailwind , it flew at a speed of 310 miles per hour . Find the speed of the tailwind . 
+Your teacher is giving a test worth 200 points . There is a total of 30 5-point and 10-point questions . How many 5-point questions are on the test ? 
